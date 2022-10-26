@@ -1,2 +1,2 @@
-# thanos
+# Thanos
 MCA python 22
